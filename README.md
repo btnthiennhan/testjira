@@ -24,17 +24,4 @@ Nhóm chúng tôi hy vọng dự án sẽ đáp ứng kỳ vọng về cả ch�
 
 ---
 
-## 🚀 Hướng dẫn cài đặt
-
-```bash
-# 1. Clone repository
-git clone [URL của bạn]
-
-# 2. Cài đặt dependencies
-npm install
-
-# 3. Cập nhật dependencies (nếu cần)
-npm update
-
-# 4. Chạy dự án
-npm start
+aaaa
